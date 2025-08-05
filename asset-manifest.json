@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/virtual-games/static/css/main.d79d7a71.css",
+    "main.js": "/virtual-games/static/js/main.1e5abb54.js",
+    "static/js/453.92c25c6a.chunk.js": "/virtual-games/static/js/453.92c25c6a.chunk.js",
+    "static/media/artboard.png": "/virtual-games/static/media/artboard.78a83db3fdb5ea84480d.png",
+    "static/media/imgSection3.png": "/virtual-games/static/media/imgSection3.b7c752d891ab36cacd67.png",
+    "static/media/imgSlider2.png": "/virtual-games/static/media/imgSlider2.a599d6128ec55c08bfbf.png",
+    "static/media/imgSlider.png": "/virtual-games/static/media/imgSlider.0fcfe94814fa5955932e.png",
+    "static/media/imgSlider3.png": "/virtual-games/static/media/imgSlider3.8deca69bca4f5f7c1e99.png",
+    "static/media/imgSlider4.png": "/virtual-games/static/media/imgSlider4.3cd2bbc9940e7ecc35a1.png",
+    "static/media/imgSlider1.png": "/virtual-games/static/media/imgSlider1.ec813427d999384fede1.png",
+    "index.html": "/virtual-games/index.html",
+    "main.d79d7a71.css.map": "/virtual-games/static/css/main.d79d7a71.css.map",
+    "main.1e5abb54.js.map": "/virtual-games/static/js/main.1e5abb54.js.map",
+    "453.92c25c6a.chunk.js.map": "/virtual-games/static/js/453.92c25c6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d79d7a71.css",
+    "static/js/main.1e5abb54.js"
+  ]
+}
