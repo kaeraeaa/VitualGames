@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css"
-import artboard from "./img/artboard.png"
+
 
 function Section1() {
   return (
@@ -32,7 +32,7 @@ function Section1() {
       </div>
 
       
-      {/* <img className="artboard" src={artboard} alt="" /> */}
+      
       
        <div class="marquee-wrapper">
     <div class="marquee">
