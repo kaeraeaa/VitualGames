@@ -1,0 +1,26 @@
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding: 24px;
+  justify-items: center;
+}
+
+.game-section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin: 24px 0;
+  color: #fff;
+}
+
+@media (max-width: 992px) {
+  .game-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .game-grid {
+    grid-template-columns: 1fr;
+  }
+}

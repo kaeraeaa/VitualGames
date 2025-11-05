@@ -4,12 +4,13 @@ import img2 from "./img/imgSlider1.png";
 import img3 from "./img/imgSlider2.png";
 import img4 from "./img/imgSlider3.png";
 import img5 from "./img/imgSlider4.png";
+import img6 from "./img/imgSlider5.png";
 import "../App.css"; 
 
 
 function Section2() {
   const [index, setIndex] = useState(0);
-  const images = [img1, img2, img3, img4, img5];
+  const images = [img1, img2, img3, img4, img5, img6];
 
   const getImage = (i) => images[(i + images.length) % images.length];
 
