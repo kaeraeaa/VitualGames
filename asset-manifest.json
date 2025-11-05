@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/VirtualGames/static/css/main.39ae47b8.css",
-    "main.js": "/VirtualGames/static/js/main.5e157278.js",
-    "static/js/453.92c25c6a.chunk.js": "/VirtualGames/static/js/453.92c25c6a.chunk.js",
-    "static/media/artboard.png": "/VirtualGames/static/media/artboard.78a83db3fdb5ea84480d.png",
-    "static/media/imgSection3.png": "/VirtualGames/static/media/imgSection3.b7c752d891ab36cacd67.png",
-    "static/media/footerBackground.png": "/VirtualGames/static/media/footerBackground.3f0f7cd4713b2db6c028.png",
-    "static/media/imgSlider5.png": "/VirtualGames/static/media/imgSlider5.b5e42317a7929ce25b40.png",
-    "static/media/imgSlider2.png": "/VirtualGames/static/media/imgSlider2.a599d6128ec55c08bfbf.png",
-    "static/media/imgSlider.png": "/VirtualGames/static/media/imgSlider.0fcfe94814fa5955932e.png",
-    "static/media/imgSlider3.png": "/VirtualGames/static/media/imgSlider3.8deca69bca4f5f7c1e99.png",
-    "static/media/imgSlider4.png": "/VirtualGames/static/media/imgSlider4.3cd2bbc9940e7ecc35a1.png",
-    "static/media/imgSlider1.png": "/VirtualGames/static/media/imgSlider1.ec813427d999384fede1.png",
-    "index.html": "/VirtualGames/index.html",
-    "main.39ae47b8.css.map": "/VirtualGames/static/css/main.39ae47b8.css.map",
-    "main.5e157278.js.map": "/VirtualGames/static/js/main.5e157278.js.map",
-    "453.92c25c6a.chunk.js.map": "/VirtualGames/static/js/453.92c25c6a.chunk.js.map"
+    "main.css": "/VitualGames/static/css/main.fc2b59db.css",
+    "main.js": "/VitualGames/static/js/main.5420949e.js",
+    "static/js/453.92c25c6a.chunk.js": "/VitualGames/static/js/453.92c25c6a.chunk.js",
+    "static/media/artboard.png": "/VitualGames/static/media/artboard.78a83db3fdb5ea84480d.png",
+    "static/media/imgSection3.png": "/VitualGames/static/media/imgSection3.b7c752d891ab36cacd67.png",
+    "static/media/footerBackground.png": "/VitualGames/static/media/footerBackground.3f0f7cd4713b2db6c028.png",
+    "static/media/imgSlider5.png": "/VitualGames/static/media/imgSlider5.b5e42317a7929ce25b40.png",
+    "static/media/imgSlider2.png": "/VitualGames/static/media/imgSlider2.a599d6128ec55c08bfbf.png",
+    "static/media/imgSlider.png": "/VitualGames/static/media/imgSlider.0fcfe94814fa5955932e.png",
+    "static/media/imgSlider3.png": "/VitualGames/static/media/imgSlider3.8deca69bca4f5f7c1e99.png",
+    "static/media/imgSlider4.png": "/VitualGames/static/media/imgSlider4.3cd2bbc9940e7ecc35a1.png",
+    "static/media/imgSlider1.png": "/VitualGames/static/media/imgSlider1.ec813427d999384fede1.png",
+    "index.html": "/VitualGames/index.html",
+    "main.fc2b59db.css.map": "/VitualGames/static/css/main.fc2b59db.css.map",
+    "main.5420949e.js.map": "/VitualGames/static/js/main.5420949e.js.map",
+    "453.92c25c6a.chunk.js.map": "/VitualGames/static/js/453.92c25c6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39ae47b8.css",
-    "static/js/main.5e157278.js"
+    "static/css/main.fc2b59db.css",
+    "static/js/main.5420949e.js"
   ]
 }
